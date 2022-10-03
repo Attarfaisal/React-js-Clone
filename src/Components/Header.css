@@ -1,0 +1,35 @@
+.list{
+    color: white !important ;
+    font-weight: bolder !important;
+    font-size: 20px !important;
+    padding: 0px 30px !important;
+    text-decoration: none;
+  }
+.list:hover:active{
+    color: aqua !important;
+    text-decoration: underline !important;
+    font-weight: bold;
+}
+
+.image-logo{
+    height: 70px;
+}
+.tittle{
+    height: 50px;
+    color: aliceblue;
+    background-color:rgba(13, 0, 0, 0.912);
+}
+#second-para{
+    color: aqua;
+}
+#para{
+    padding-top: 20px;
+}
+.nav-bar{
+    background-color: black;
+    position: fixed;
+    top: 0px;
+}
+#footer-content{
+    background-color: black;
+}

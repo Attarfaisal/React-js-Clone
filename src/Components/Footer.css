@@ -1,0 +1,32 @@
+.footer-list li{
+    list-style: none;
+}
+.list-footer{
+    color: white;
+    text-decoration: none;
+}
+.footer-head{
+    color: gray !important;
+    background-color: black;
+}
+.footer{
+    background-color: black !important;
+    color: black;
+}
+.foo{
+    background-color: black;
+    color:white;
+    border: none;
+}
+.list-footer:active{
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.cards-div{
+    border: none !important;
+}
+/* .btn-body :active{
+    font-weight: bolder;
+    text-decoration: underline;
+    border: none;
+} */
